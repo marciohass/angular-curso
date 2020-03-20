@@ -1,1 +1,1 @@
-# angular-curso
+# angular-curso-note
